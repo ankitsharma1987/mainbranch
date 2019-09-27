@@ -1,0 +1,56 @@
+/*------------------ Responsive ---------------------*/
+
+/*------------------ 1440px ---------------------*/
+
+@media only screen and (max-width: 1440px) { } 
+/*------------------ 1366px ---------------------*/
+
+@media only screen and (max-width: 1366px) { } 
+
+/*------------------ 1280px ---------------------*/
+@media only screen and (max-width: 1280px) { } 
+
+/*------------------ 991px ---------------------*/
+@media only screen and (max-width:991px) {
+    .page-section { margin:3rem 0;}
+    .main-heading {  line-height: 2.4rem; font-size: 2.2rem; }
+    .main-heading span { font-size: 1.5rem;}
+    .header .text-container .large { font-size: 2rem;}
+    .about-surpass .text-container { padding: 1rem 0;}
+    .surpass-cloud { background-color:#2f94e4;}
+    .window-bg { text-align: center;} 
+    .benefits-left, .benefits-right { padding-top: 0rem;}
+    .text-benefits { padding: 1rem;}
+    .text-benefits h5 { margin: 0;  font-weight: 400; font-size: 1rem; }
+    .demo-strip { background: #42a5f5; padding:2rem 1rem;    margin-bottom: 0; }
+    .features { padding: 3rem 0; margin-top:0rem;}
+    .text-features { padding: 0; margin:0.5rem 0; }
+    .testimonial p {   font-size: 1rem;  padding: 1rem;   line-height: 1.5rem; }
+    .support-image { width:100%; } 
+ } 
+
+/*------------------ portrait ---------------------*/
+@media only screen and (min-width: 992px) and (max-width: 1199px) { } 
+
+/*------------------ portrait ---------------------*/
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+} 
+
+
+
+
+/*------------------ 768px ---------------------*/
+@media only screen and (max-width:768px) {
+    .header .header-content {
+        padding: 10rem 0rem 6rem;
+    }
+    .header .text-container h1 { font-size: 3rem;  line-height: 3rem;}
+}
+/*------------------ 576px ---------------------*/
+@media only screen and (max-width: 576px) {
+
+ } 
+
+/*------------------ 479px ---------------------*/
+@media only screen and (max-width: 480px) { } 
